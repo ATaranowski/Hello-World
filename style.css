@@ -1,0 +1,11 @@
+h1 {color: white;
+font-family: arial;
+background: maroon;
+font-size: 60px}
+p {font-size: 20px;}
+figcaption {padding: 2px;
+font-size; 15px}
+figure img {width: 50%;
+height: auto;
+border: 5px dotted red}
+p img {width: 50%}
