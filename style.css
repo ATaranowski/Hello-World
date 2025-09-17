@@ -9,3 +9,5 @@ figure img {width: 50%;
 height: auto;
 border: 5px dotted red}
 p img {width: 50%}
+a {font-weight: bold; color:blue;}
+ul li a {font-size: large; font-weight: bolder}
