@@ -1,7 +1,14 @@
-h1 {color: white;
+
+h1#site-title {color: white;
 font-family: arial;
 background: maroon;
-font-size: 60px}
+font-size: 60px;
+text-align: center}
+h1#image-title {color: white;
+font-family: arial;
+background: darkblue;
+font-size: 50px;
+text-align: center}
 p {font-size: 20px;}
 figcaption {padding: 2px;
 font-size; 15px}
