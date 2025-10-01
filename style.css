@@ -1,10 +1,14 @@
-
-h1 site-title {color: white;
+h1 {color: white;
 font-family: arial;
 background: maroon;
 font-size: 60px;
 text-align: center}
-h1 image-title {color: white;
+h1#site-title {color: white;
+font-family: arial;
+background: maroon;
+font-size: 60px;
+text-align: center}
+h1#image-title {color: white;
 font-family: arial;
 background: darkblue;
 font-size: 50px;
@@ -15,6 +19,18 @@ font-size; 15px}
 figure img {width: 50%;
 height: auto;
 border: 5px dotted red}
+figure.first-cat {width: 50%;
+height: auto;
+border: 4px dotted red;
+background-color: palevioletred}
+figure.second-cat {width: 50%;
+height: auto;
+border: 3px dotted blue;
+background-color: paleturquoise}
+figure.second-cat.odd {float: right;
+margin-left:20px}
+figure.second-cat.even {float: left;
+margin-right:20px}
 p img {width: 50%}
 a {font-weight: bold; color: darkblue;}
 li {font-weight: bold; color:darkblue;}
