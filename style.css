@@ -1,10 +1,10 @@
 
-h1#site-title {color: white;
+h1 site-title {color: white;
 font-family: arial;
 background: maroon;
 font-size: 60px;
 text-align: center}
-h1#image-title {color: white;
+h1 image-title {color: white;
 font-family: arial;
 background: darkblue;
 font-size: 50px;
