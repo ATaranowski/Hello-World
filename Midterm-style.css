@@ -1,4 +1,4 @@
-h1 {font-weight: bold; font-size:100x; float: right;}
-h2 {float: right; border: 5px black; font-weight: light; background-color: greenyellow;}
+h1 {font-weight: bold; font-size:100x; text-align: right;}
+h2 {text-align: right; border: 5px black; font-weight: light; background-color: greenyellow;}
 h3 {font-weight: bold; text-decoration: underline black 1px;}
-h4 {float: left;}
+h4 {text-align: left;}
