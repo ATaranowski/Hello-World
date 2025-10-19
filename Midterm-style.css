@@ -1,5 +1,5 @@
 h1 {float: right; font-weight: bold; font-size:70px;}
-h2 {float: right; border: 5px black; font-weight: light;}
+h2 {float: inline-end; border: 5px black; font-weight: light;}
 h3 {font-weight: bold; text-decoration: underline black 1px;}
 h4 {text-align: left;}
 h5 {border: 5px black; font-weight: lighter; font-size: 30px}
