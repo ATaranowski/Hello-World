@@ -3,7 +3,8 @@ h2 {float: right; border: 5px black; font-weight: light;}
 h3 {font-weight: bold; text-decoration: underline black 1px;}
 h4 {text-align: left; border: 4px white}
 h5 {border: 5px black; font-weight: lighter; font-size: 30px}
-h6 {float: center; border: 5px black; font-weight: light; font-size: 30px;}
+h6 {float: center; border: 5px black; font-weight: bold; font-size: 70px;}
 h7 {text-decoration: underline 2px; border: 5px black; font-weight: light; font-size: 30px}
 h8 {text-align: left; font-weight: bold; font-size:70px;}
 h9 {text-align: right; border: 5px black; font-weight: light;}
+h10 {float: right; font-size: 30px; font-weight: light}
