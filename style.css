@@ -1,37 +1,46 @@
 h1 {color: white;
-font-family: arial;
-background: maroon;
-font-size: 60px;
-text-align: center}
+    font-family: arial;
+    background: maroon;
+    font-size: 60px;
+    text-align: center}
 h1#site-title {color: white;
-font-family: arial;
-background: maroon;
-font-size: 60px;
-text-align: center}
+    font-family: arial;
+    background: maroon;
+    font-size: 60px;
+    text-align: center}
 h1#image-title {color: white;
-font-family: arial;
-background: darkblue;
-font-size: 50px;
-text-align: center}
+    font-family: arial;
+    background: darkblue;
+    font-size: 50px;
+    text-align: center}
 p {font-size: 20px;}
 figcaption {padding: 2px;
-font-size: 15px}
+    font-size: 15px}
 figure img {width: 50%;
-height: auto;
-border: 5px dotted red}
+    max-width: 100%;
+    height: auto;
+    border: 5px dotted red}
+img {max-width: 100%;
+    height: auto;}
+@media all and (min-width: 768px){
 figure.first-cat {width: 50%;
-height: auto;
-border: 4px dotted red;
-background-color: palevioletred}
+    height: auto;
+    border: 4px dotted red;
+    background-color: palevioletred}}
+@media all and (min-width: 768px){
 figure.second-cat {width: 50%;
-height: auto;
-border: 3px dotted blue;
-background-color: paleturquoise}
+    height: auto;
+    border: 3px dotted blue;
+    background-color: paleturquoise}}
 figure.second-cat.odd {float: right;
-margin-left:20px}
+    margin-left:20px}
 figure.second-cat.even {float: left;
-margin-right:20px}
+    margin-right:20px}
 p img {width: 50%}
 a {font-weight: bold; color: darkblue;}
 li {font-weight: bold; color:darkblue;}
 ul li a {font-size: larger; font-weight: bolder}
+@media all and (min-width: 376px) {nav ul{
+    display: flex;
+    justify-content: center;
+    gap: 30px;}}
