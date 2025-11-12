@@ -1,1 +1,3 @@
-h2 {border: 3px dotted blue;}
+h2 {border: 3px dotted blue;
+border-top: 300px;
+border-left: 300px;}
