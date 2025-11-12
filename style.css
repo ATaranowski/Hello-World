@@ -25,7 +25,7 @@ figure.first-cat {width: 100%;
     background-color: palevioletred;
     float: left=none;
     float: right=none;
-    text-align: left}}
+    align-content: left}}
 @media all and (min-width: 768px){
 figure.second-cat {width: 50%;
     height: auto;
@@ -33,7 +33,7 @@ figure.second-cat {width: 50%;
     background-color: paleturquoise;
     float: left=none;
     float: right=none;
-    text-align: left}}
+    align-content: left}}
 p img {width: 50%}
 a {font-weight: bold; color: darkblue;}
 li {font-weight: bold; color:darkblue;}
