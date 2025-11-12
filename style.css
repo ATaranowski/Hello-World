@@ -16,10 +16,7 @@ h1#image-title {color: white;
 p {font-size: 20px;}
 figcaption {padding: 2px;
     font-size: 15px}
-figure img {width: 50%;
-    max-width: 100%;
-    height: auto;
-    border: 5px dotted red}
+
 img {max-width: 100%;
     height: auto;}
 @media all and (min-width: 768px){
