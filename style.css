@@ -16,13 +16,11 @@ h1#image-title {color: white;
 p {font-size: 20px;}
 figcaption {padding: 2px;
     font-size: 15px}
-
 img {max-width: 100%;
     height: auto;}
 @media all and (min-width: 768px){
 figure.first-cat {width: 100%;
     height: auto;
-    border: 4px dotted red;
     background-color: palevioletred}}
 @media all and (min-width: 768px){
 figure.second-cat {width: 50%;
