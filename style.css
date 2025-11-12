@@ -31,6 +31,12 @@ figure.second-cat {width: 50%;
     float: left=none;
     float: right=none;
     align-content: left}}
+figure.third-cat {width: 50%;
+    height: auto;
+    border: 3px dotted blue;
+    float: left=none;
+    float: right=none;
+    align-content: left}
 p img {width: 50%}
 a {font-weight: bold; color: darkblue;}
 li {font-weight: bold; color:darkblue;}
