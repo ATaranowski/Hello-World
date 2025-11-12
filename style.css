@@ -22,7 +22,6 @@ img {max-width: 100%;
 figure.first-cat {width: 100%;
     height: auto;
     border: none;
-    background-color: palevioletred;
     float: left=none;
     float: right=none;
     align-content: left}}
@@ -30,7 +29,7 @@ figure.first-cat {width: 100%;
 figure.second-cat {width: 50%;
     height: auto;
     border: 3px dotted blue;
-    background-color: paleturquoise;
+    border: 2px paleturquoise
     float: left=none;
     float: right=none;
     align-content: left}}
