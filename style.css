@@ -29,7 +29,6 @@ figure.first-cat {width: 100%;
 figure.second-cat {width: 50%;
     height: auto;
     border: 3px dotted blue;
-    border: 2px paleturquoise;
     float: left=none;
     float: right=none;
     align-content: left}}
