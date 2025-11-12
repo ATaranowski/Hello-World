@@ -41,5 +41,4 @@ a {font-weight: bold; color: darkblue;}
 li {font-weight: bold; color:darkblue;}
 ul li a {font-size: larger; font-weight: bolder}
 @media all and (min-width: 376px) {nav ul{
-    display: flex;
-    justify-content: center;}}
+    display: flex;}}
