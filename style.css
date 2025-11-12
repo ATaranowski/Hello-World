@@ -28,8 +28,7 @@ figure.first-cat {width: 100%;
 @media all and (min-width: 768px){
 figure.second-cat {width: 50%;
     height: auto;
-    border: 3px dotted blue;
-    border: 2px paleturquoise
+    border: none;
     float: left=none;
     float: right=none;
     align-content: left}}
