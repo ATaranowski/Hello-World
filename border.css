@@ -1,6 +1,10 @@
 h2 {border-width: 5px;
 border-style: dotted;
 border-color: blue;
+outline-width: 5px;
+outline-style: dotted;
+outline-color: blue;
+background: none;
 border-top: 300px;
 border-bottom: 300px;
 border-right: 300px;
