@@ -1,4 +1,6 @@
-h2 {border: 3px dotted blue;
+h2 {border: 3px dotted;
+border-color: blue;
+background-color: paleturquoise;
 border-top: 300px;
 border-bottom: 300px;
 border-right: 100px;
