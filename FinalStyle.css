@@ -1,10 +1,16 @@
 h1 {font-weight: 200;
     font-size: 70;}
-h2 {font-weight: 50;
+h2 {font-weight: 20;
     font-size: 20;}
 h3 {font: weight 250px;
-    text-decoration: underline black 1px;}
-h4 {float: right}
+    text-decoration: underline;}
+h4 {float: right;}
 h5 {font-weight: 50;
     font-size: 20;
-    float: center}
+    float: center;}
+h6 {font-weight: 20;
+    font-size: 20;
+    text-decoration: underline}
+h6 {font-weight: 50;
+    font-size: 20;
+    text-decoration: underline}
